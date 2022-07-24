@@ -1,5 +1,7 @@
 # Getting Started with react-boilerplate
-![](https://bit.ly/3aZx8Xp)
+![Screenshot 2022-07-24 214734](https://user-images.githubusercontent.com/14777584/180653040-e55b05ad-fb70-4d43-88f7-20ce370a4b24.png)
+
+
 
 ## Available Scripts
 
