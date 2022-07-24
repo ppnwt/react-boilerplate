@@ -1,5 +1,5 @@
-import logo from "./pearhead.svg";
-import "./App.css";
+import logo from "src/assets/pearhead.svg";
+import "src/css/App.css";
 
 function App() {
   return (
