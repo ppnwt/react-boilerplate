@@ -13,6 +13,7 @@ function App() {
             <li>Utils: helper function</li>
             <li>Automate, Deployment: Jenkinsfile, Dockerfile</li>
             <li>Code formatting: Eslint, prettier</li>
+            <li>Others: setup absolute path with "src/"</li>
           </ul>
         </div>
       </header>
