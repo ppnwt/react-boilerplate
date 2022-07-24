@@ -1,5 +1,5 @@
 # Getting Started with react-boilerplate
-![md-image]("https://trello.com/1/cards/62d54c3b4afab8808d41ea17/attachments/62dd5baca45dfd0460ae447c/download/Screenshot_2022-07-24_214734.png")
+![md-image](https://trello.com/1/cards/62d54c3b4afab8808d41ea17/attachments/62dd5baca45dfd0460ae447c/download/Screenshot_2022-07-24_214734.png)
 
 ## Available Scripts
 
