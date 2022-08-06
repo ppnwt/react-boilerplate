@@ -9,11 +9,12 @@ function App() {
         <span>This my react boilerplate, This project setup for</span>
         <div className="lt">
           <ul>
-            <li>Folder structure: hooks, lib, features</li>
+            <li>Guideline structure: hooks, lib, features, services</li>
             <li>Utils: helper function</li>
             <li>Automate, Deployment: Jenkinsfile, Dockerfile</li>
             <li>Code formatting: Eslint, prettier</li>
             <li>Others: setup absolute path with "src/"</li>
+            <li>Coming Soon: tailwind css, styled component</li>
           </ul>
         </div>
       </header>
